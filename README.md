@@ -22,4 +22,4 @@ Set your Papertrail API Token
 papertrail_api_token="abcdefghijklmnop"
 ```
 
-Then run the Notebook. All the files will be stored in your local path + "/logs". If the folder doesn't exist, it will create one.
+Then run the Notebook. All the files will be stored in your local path + "/logs". If the folder doesn't exist, it will create one. After downloading the files, the notebook will uncompress them in the same folder. 
